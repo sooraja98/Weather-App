@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.f3bd51e6.css",
+    "main.js": "/Weather-App/static/js/main.acc34ca6.js",
+    "static/media/birk-enwald-h3If1JwRomQ-unsplash.jpg": "/Weather-App/static/media/birk-enwald-h3If1JwRomQ-unsplash.dc17db1228798e53fceb.jpg",
+    "index.html": "/Weather-App/index.html",
+    "main.f3bd51e6.css.map": "/Weather-App/static/css/main.f3bd51e6.css.map",
+    "main.acc34ca6.js.map": "/Weather-App/static/js/main.acc34ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3bd51e6.css",
+    "static/js/main.acc34ca6.js"
+  ]
+}
